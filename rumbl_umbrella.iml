@@ -30,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/plug_crypto" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/postgrex" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ranch" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/sweet_xml" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/telemetry" />
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/comeonin" />
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/connection" />

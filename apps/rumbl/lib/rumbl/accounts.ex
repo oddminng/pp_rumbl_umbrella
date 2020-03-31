@@ -33,11 +33,11 @@ defmodule Rumbl.Accounts do
     User.changeset(user, %{})
   end
 
-#  def create_user(attrs \\ %{}) do
-#    %User{}
-#    |> User.changeset(attrs)
-#    |> Repo.insert()
-#  end
+  def create_user(attrs \\ %{}) do
+    %User{}
+    |> User.changeset(attrs)
+    |> Repo.insert()
+  end
 
   def change_registration(%User{} = user, params) do
     User.registration_changeset(user, params)
